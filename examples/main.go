@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/kaviraj-m/goutils/errorutil"
-	"github.com/kaviraj-m/goutils/strutil"
-	"github.com/kaviraj-m/goutils/timeutil"
-	"github.com/kaviraj-m/goutils/validation"
+	"github.com/kavirajm/goutils/errorutil"
+	"github.com/kavirajm/goutils/strutil"
+	"github.com/kavirajm/goutils/timeutil"
+	"github.com/kavirajm/goutils/validation"
 )
 
 func main() {

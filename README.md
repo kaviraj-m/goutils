@@ -12,17 +12,17 @@ A collection of Go utility packages for common programming tasks.
 ## Installation
 
 ```bash
-go get github.com/kavirajm/goutils
+go get github.com/kaviraj-m/goutils
 ```
 
 ## Usage
 
 ```go
 import (
-    "github.com/kavirajm/goutils/validation"
-    "github.com/kavirajm/goutils/strutil"
-    "github.com/kavirajm/goutils/errorutil"
-    "github.com/kavirajm/goutils/timeutil"
+    "github.com/kaviraj-m/goutils/validation"
+    "github.com/kaviraj-m/goutils/strutil"
+    "github.com/kaviraj-m/goutils/errorutil"
+    "github.com/kaviraj-m/goutils/timeutil"
 )
 ```
 
